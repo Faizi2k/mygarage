@@ -3050,8 +3050,8 @@
     {
       "path": "src/types/toll.ts",
       "disposition": "no unit behaviour",
-      "digest": "4c992a34d007cf38f6bcb204f2f02894c5629f1b460075e8a5376a3e49ee0231",
-      "reason": "no unit behaviour: dispositioned under the CORRECTED scan: every unit stem, token, quantity name and canonical field suffix this codebase uses, matched case-insensitively with NO word boundary. The earlier word-boundary version was a floor (it called AnalyticsHelpModal.tsx clean while it renders \"Average MPG:\" to every user) and it was superseded before any disposition in this file was written. This file matched NONE of them. 2026-10-04 (#199): three Malaysian systems join the TOLL_SYSTEMS copy. Brand names only."
+      "digest": "57f665d1a3352a3ce07acb451d3cbbd315c213b2eeb7a0bb0404bcd5b99c9b40",
+      "reason": "no unit behaviour: dispositioned under the CORRECTED scan: every unit stem, token, quantity name and canonical field suffix this codebase uses, matched case-insensitively with NO word boundary. The earlier word-boundary version was a floor (it called AnalyticsHelpModal.tsx clean while it renders \"Average MPG:\" to every user) and it was superseded before any disposition in this file was written. This file matched NONE of them. 2026-10-04 (#199): three Malaysian systems join the TOLL_SYSTEMS copy. Brand names only. 2026-10-04: removes the unused TOLL_SYSTEMS copy and TollSystem type; schemas/tollTag.ts holds the only list. No unit behaviour added."
     },
     {
       "path": "src/types/trips.ts",
